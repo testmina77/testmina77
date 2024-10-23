@@ -10,7 +10,7 @@ I enjoy working with a wide variety of languages, including:
 - **React.js**, **HTML**, **CSS**
   
 I also use these tools:
-- For writing code:
+ For writing code:
 - **Visual Studio Community**
 - **Visual Studio Code**
 - **Notepad++**
