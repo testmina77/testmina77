@@ -9,10 +9,6 @@ I enjoy working with a wide variety of languages and tools, including:
 - **x86 Assembly**, **16-bit Assembly**
 - **React.js**, **HTML**, **CSS**
 
-### Current Projects
-- **Kernel Development**: I'm building my own text-mode kernel.
-- **Discord Bot**: Creating a minimalist Discord library for message handling using WebSocket++.
-
 ### Future Goals
 - Learn more about **machine learning** and **cybersecurity**.
 - Dive deeper into **3D rendering techniques** and the **mathematics** behind projecting 3D objects onto 2D surfaces.
