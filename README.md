@@ -6,8 +6,8 @@ I'm a 14-year-old passionate programmer with a love for exploring different tech
 ### Tech Stack
 I enjoy working with a wide variety of languages, including:
 - **C++**, **C**, **C#**, **Java**
-- **x86 Assembly**, **16-bit Assembly**
-- **React.js**, **HTML**, **CSS**
+- **Assembly**
+- **JavaScript**, **HTML**, **CSS**
   
 I also use these tools:
  For writing code:
